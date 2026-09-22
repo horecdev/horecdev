@@ -1,6 +1,6 @@
 # Michał Horecki
 
-Without rambling, I like building all AI type shit from the ground up.  
+I, quite frankly, like building all AI type shit from the ground up.  
 Incoming CS freshman @ Warsaw University of Technology.
 
 **Three projects I find the coolest**
