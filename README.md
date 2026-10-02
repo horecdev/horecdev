@@ -1,6 +1,6 @@
 # Michał Horecki
 
-I like building AI type stuff from the ground up <3
+I like building AI type stuff from the ground up <3  
 Freshman CS student @ Warsaw University of Technology (EiTI).
 
 **Things I've built**
