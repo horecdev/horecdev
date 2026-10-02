@@ -8,8 +8,8 @@ Freshman CS student @ Warsaw University of Technology (EiTI).
 * **[Speech denoiser](https://github.com/horecdev/LSTM-denoiser-from-scratch)**: an LSTM in plain NumPy, with hand-derived backprop through time (BPTT) and my own STFT/ISTFT. Audio samples are in the repo.
 * **Lyme detection pipeline**: a 3-stage TensorFlow vision pipeline, built as a paid project.
 
-More on my profile, because this README is not a spreadsheet of everything I've ever coded.
+...and many more. This README is not a spreadsheet of everything I have ever coded.
 
-**Now:** building an object tracker on a servo.
+**Now:** building an object tracker on a servo motor and esp32 cam.
 
 [🔗 📄 CV (1 page)](./Michal_Horecki_CV.pdf) · [X (Twitter)](https://x.com/h00recki) · [Email](mailto:horecdev@gmail.com)
