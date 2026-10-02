@@ -1,15 +1,15 @@
 # Michał Horecki
 
-I, quite frankly, like building all AI type shit from the ground up.  
-Incoming CS freshman @ Warsaw University of Technology.
+I like building AI type stuff from the ground up.
+First-year Computer Science (Informatyka) student @ Warsaw University of Technology (EiTI).
 
-**Three projects I find the coolest**
-* **[GradCraft](https://github.com/horecdev/GradCraft)**: A custom C++/CUDA deep learning framework with a lazily-evaluated autograd engine, fused kernels (95x speedup on RMSNorm, 108x on Softmax Cross-Entropy), and custom memory pools. Trained a 90M parameter GPT at home on a 3090.
-* **[NumPy Audio Denoiser](https://github.com/horecdev/LSTM-denoiser-from-scratch)**: A speech enhancement LSTM built entirely in raw NumPy. Hand-wrote the BPTT and STFT/ISTFT math.
-* **Lyme CV Pipeline**: A 3-stage TensorFlow vision pipeline for Lyme disease detection using multi-backbone feature ensembling.
-* ... and many more but this `README.md` is not my CV or a spreadsheet for all projects ever.
+**Things I've built**
+* **[GradCraft](https://github.com/horecdev/GradCraft)**: a deep learning framework in C++/CUDA with an autograd engine, fused kernels and custom memory pools. Trained a 90M-parameter GPT on 1.5B tokens on a single RTX 3090, at 45-50% of PyTorch eager throughput.
+* **[Speech denoiser](https://github.com/horecdev/LSTM-denoiser-from-scratch)**: an LSTM in plain NumPy, with hand-derived backprop through time (BPTT) and my own STFT/ISTFT. Audio samples are in the repo.
+* **Lyme detection pipeline**: a 3-stage TensorFlow vision pipeline, built as a paid project.
 
-🔗 **[📄 Read my 1-page CV here](./Michal_Horecki_CV.pdf)**
+More on my profile, but this README is not a spreadsheet of everything I've ever made.
 
----
-[X (Twitter)](https://x.com/h00recki) | [Email](mailto:horecdev@gmail.com)
+**Now:** building an object tracker on a servo.
+
+[🔗 📄 CV (1 page)](./Michal_Horecki_CV.pdf) · [X (Twitter)](https://x.com/h00recki) · [Email](mailto:horecdev@gmail.com)
