@@ -7,7 +7,7 @@ Freshman CS student @ Warsaw University of Technology (EiTI).
 * **[GradCraft](https://github.com/horecdev/GradCraft)**: a deep learning framework in C++/CUDA with an autograd engine, fused kernels and custom memory pools. Trained a 90M-parameter GPT on 1.5B tokens on a single RTX 3090, at 45-50% of PyTorch eager throughput.
 * **[Speech denoiser](https://github.com/horecdev/LSTM-denoiser-from-scratch)**: an LSTM in NumPy, with handwritten backprop through time (BPTT) and STFT/ISTFT. Audio samples are in the repo.
 * **Lyme detection pipeline**: a 3-stage TensorFlow vision pipeline, built as a paid project.
-* **[SiamFC Tailgating Robot (IN PROGRESS)](https://github.com/horecdev/tailgater)**: a robot built for under 30$ that locks onto any selected target and tailgates it.
+* **[SiamFC Tailgating Robot](https://github.com/horecdev/tailgater)**: an object tracker tested on a webcam and a robot built for under 30$. It locks onto any selected target and drives into it (videos in the repo `README.md`).
   
 ...and many more. This README is not a spreadsheet of everything I have ever coded.
 
